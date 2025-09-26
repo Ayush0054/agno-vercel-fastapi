@@ -1,18 +1,5 @@
-# AgentOS FastAPI Application
+# Agno AgentOS FastAPI Application
 
-A FastAPI application powered by AgentOS that provides an AI assistant service using OpenAI's GPT models.
-
-## Overview
-
-This project creates an AI assistant using the AgentOS framework, which provides a structured way to build and deploy AI agents. The assistant is configured with GPT-5-mini and serves responses through a FastAPI web application.
-
-## Features
-
-- 🤖 AI Assistant powered by OpenAI GPT-5-mini
-- 🚀 FastAPI web framework for high performance
-- 📝 Markdown support for rich text responses
-- 🔄 Hot reload for development
-- 🌐 AgentOS integration for agent management
 
 ## Prerequisites
 
