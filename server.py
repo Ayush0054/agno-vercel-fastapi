@@ -19,4 +19,4 @@ app = agent_os.get_app()
 
 if __name__ == "__main__":
     # Default port is 7777; change with port=...
-    agent_os.serve(app="main:app", reload=True)
+    agent_os.serve(app="server:app", reload=True)
